@@ -1,0 +1,26 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #9aa5b1;
+  background-size: cover;
+  height: 100vh;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.faqs-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  background-size: cover;
+  height: 95%;
+  width: 90%;
+  border-radius: 10px;
+}
+.heading {
+  color: #cb8805;
+  font-family: roboto;
+  font-size: 36px;
+}
